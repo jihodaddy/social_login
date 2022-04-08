@@ -13,3 +13,4 @@ redistDate TIMESTAMP DEFAULT now(),
 profile VARCHAR(255),
 grade VARCHAR(30)
 );
+---

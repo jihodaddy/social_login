@@ -1,5 +1,5 @@
 # MySQL 쿼리문
-***
+---
 CREATE SCHEMA security DEFAULT CHARACTER SET utf8;
 
 use security;

@@ -12,7 +12,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	구글 로그인 완료
+	<h2>구글 로그인 완료</h2>
 	<div>
 		<img src="${loginMember.profile}" width="64" height="64">	
 		<span>${loginMember.name}</span>

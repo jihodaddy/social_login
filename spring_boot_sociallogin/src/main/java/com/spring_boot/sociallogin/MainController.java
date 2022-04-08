@@ -13,11 +13,19 @@ public class MainController {
 	
 	@RequestMapping("/naverlogin")
 	public String naverlogin() {
+		
 		return "/naverlogin";
+	}
+	
+	@RequestMapping("/kakaologin")
+	public String kakaologin() {
+		
+		return "/kakaologin";
 	}
 
 	@RequestMapping("/naverSuccess")
 	public String naverSuccess() {
+		
 		return "/naverSuccess";
 	}
 }
